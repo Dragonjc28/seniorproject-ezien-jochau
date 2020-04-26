@@ -1,0 +1,20 @@
+﻿Theme: suck up random stuff in a city
+
+
+Core Mechanic: suck up objects in a city
+
+
+As you suck up more things, the bigger your sinkhole gets
+Assets: cars, buildings, streetlights, people, pets
+
+
+Movement: wasd to move
+
+
+Goal: to suck up the most amount of things in a given amount of time
+
+
+Levels: 1-3 city, farmland, forest
+
+
+Github:
