@@ -55,8 +55,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\OnChangePos.cs" />
+     <Compile Include="Assets\Scripts\Conditions.cs" />
      <Compile Include="Assets\Scripts\FollowPlayer.cs" />
+     <Compile Include="Assets\Scripts\OnChangePos.cs" />
      <Compile Include="Assets\Scripts\SinkholeMovement.cs" />
      <None Include="Assets\Simple city plain\Read_me.txt" />
  <Reference Include="Unity.Timeline.Editor">
