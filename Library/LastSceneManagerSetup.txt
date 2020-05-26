@@ -1,5 +1,9 @@
 sceneSetups:
+<<<<<<< Updated upstream
 - path: Assets/CityVoxelPack/DemoScenes/City.unity
+=======
+- path: Assets/CityVoxelPack/DemoScenes/Demo.unity
+>>>>>>> Stashed changes
   isLoaded: 1
   isActive: 1
   isSubScene: 0
