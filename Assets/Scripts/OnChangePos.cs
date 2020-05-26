@@ -14,7 +14,7 @@ public class OnChangePos : MonoBehaviour
     public IEnumerator IncreaseSize()
     {
         Vector3 InitScale = transform.localScale;
-        Vector3 FinScale = InitScale * 2;
+        Vector3 FinScale = InitScale * 1.8f;
 
         float t = 0;
         while (t <= 0.4f)

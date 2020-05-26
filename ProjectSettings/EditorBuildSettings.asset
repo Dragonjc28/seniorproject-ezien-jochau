@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: afd9de03156d63040baa2987dfe06a25
+  - enabled: 1
+    path: Assets/Scenes/SinkHoleMovement.unity
+    guid: 5407fc084c614ce4a8f3c6eefe1e8ce0
   m_configObjects: {}
