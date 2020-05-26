@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 4}
-  m_MinSize: {x: 875, y: 542}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -95,7 +95,7 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 997
-  m_MinSize: {x: 875, y: 542}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &5
 MonoBehaviour:
@@ -166,7 +166,7 @@ MonoBehaviour:
   m_MinSize: {x: 911, y: 492}
   m_MaxSize: {x: 22006, y: 14042}
   vertical: 0
-  controlID: 60
+  controlID: 134
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -219,7 +219,7 @@ MonoBehaviour:
   m_MinSize: {x: 232, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 61
+  controlID: 112
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -476,9 +476,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -0.7071068, y: 0, z: -0, w: -0.7071068}
   m_Size:
-    m_Target: 1.4459093
+    m_Target: 875.4371
     speed: 2
-    m_Value: -1.4459093
+    m_Value: 837.73883
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -621,9 +621,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 622e0000
+      m_SelectedIDs: 20350000
       m_LastClickedID: 0
-      m_ExpandedIDs: 9845fdff72fbffff
+      m_ExpandedIDs: c6faffff72fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -686,7 +686,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/CityVoxelPack/DemoScenes
   m_ViewMode: 0
   m_StartGridSize: 64
   m_LastFolders: []
@@ -698,7 +698,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: ba2c0000
     m_LastClickedID: 11450
-    m_ExpandedIDs: 00000000549b0000569b0000589b00005a9b00005c9b00005e9b0000609b0000629b0000649b0000669b0000689b00006a9b00006c9b0000
+    m_ExpandedIDs: 00000000e8340000ea340000ec340000ee340000f0340000f2340000f4340000f6340000f8340000fa340000fc340000fe34000000350000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -723,24 +723,24 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_AssetTreeState:
-    scrollPos: {x: 0, y: 548}
+    scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff00000000549b0000569b0000589b00005a9b00005c9b00005e9b0000609b0000629b0000649b0000669b0000689b00006a9b00006c9b0000
+    m_ExpandedIDs: ffffffff00000000e8340000ea340000ec340000ee340000f0340000f2340000f4340000f6340000f8340000fa340000fc340000fe34000000350000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: SinkHoleMovement
-      m_OriginalName: SinkHoleMovement
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 39860
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 11}
     m_SearchString: 
